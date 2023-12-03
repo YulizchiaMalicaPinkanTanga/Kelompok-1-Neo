@@ -15,7 +15,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 # Informasi anggota
 members = [
-    {"nama": "YULIZCHIA MALICA PINKAN T", "ID MSIB": "6467091", "NIM": "4611421040", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Teknik Informatika", "Role": "Data Engineer", "foto": "yulizz.jpg"},
+    {"nama": "YULIZCHIA MALICA PINKAN T", "ID MSIB": "6467091", "NIM": "4611421040", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Teknik Informatika", "Role": "Data Engineer", "foto": "yulizz.JPG"},
     {"nama": "SAIDATUL KHALIDAH", "ID MSIB": "6514031", "NIM": "4611421024","Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Teknik Informatika", "Role": "ML Engineer", "foto": "lidaa.jpg"},
     {"nama": "KHILWA ANNIDA", "ID MSIB": "6385703", "NIM": "24010120120022","Asal Universitas" : "Universitas Diponegoro", "Program Studi": "Matematika", "Role": "Frontend Engineer", "foto": "khilwa.jpg"},
     {"nama": "NURUL INAYAH", "ID MSIB": "5934750", "NIM": "4401420093", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Pendidikan Biologi","Role": "Backend Engineer", "foto": "nurull.jpg"},
