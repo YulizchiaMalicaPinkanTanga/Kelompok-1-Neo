@@ -19,7 +19,7 @@ members = [
     {"nama": "SAIDATUL KHALIDAH", "ID MSIB": "6514031", "NIM": "4611421024","Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Teknik Informatika", "Role": "ML Engineer", "foto": "lidaa.jpg"},
     {"nama": "KHILWA ANNIDA", "ID MSIB": "6385703", "NIM": "24010120120022","Asal Universitas" : "Universitas Diponegoro", "Program Studi": "Matematika", "Role": "Frontend Engineer", "foto": "khilwa.jpg"},
     {"nama": "NURUL INAYAH", "ID MSIB": "5934750", "NIM": "4401420093", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Pendidikan Biologi","Role": "Backend Engineer", "foto": "nurull.jpg"},
-    {"nama": "NGESTI RAHAYU", "ID MSIB": "7150272", "NIM": "4201420025", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Pendidikan Fisika", "Role": "Technical Writter", "foto": "ngesti.jpg"},
+    {"nama": "NGESTI RAHAYU", "ID MSIB": "7150272", "NIM": "4201420025", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Pendidikan Fisika", "Role": "Technical Writter", "foto": "NGESTI.jpg"},
     {"nama": "ADITYA SAMASTHA", "ID MSIB": "7167365", "NIM": "4201420078", "Asal Universitas" : "Universitas Negeri Semarang", "Program Studi": "Pendidikan Fisika", "Role": "UI/UX Designer", "foto": "Aditya.jpg"},
 ]
 
